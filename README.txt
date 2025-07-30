@@ -1,4 +1,4 @@
-ENDPOINTS DE LA API (con descripcion)
+ENDPOINTS DE LA API BCRA (con descripcion)
 
 https://api.estadisticasbcra.com/milestones : eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
 https://api.estadisticasbcra.com/base : base monetaria
